@@ -9,6 +9,7 @@ public class TopicAPI {
 	public static void main(String[] args) {
 
 		SpringApplication.run(TopicAPI.class, args);
-	}
+		System.out.println("hello");
+		}
 
 }
